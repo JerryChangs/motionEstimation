@@ -10,7 +10,7 @@ estimation.
 
 1) testConstDiff() : tests the constDiff function which outputs an image of the difference between two image frames.
 
-2) testCompareImages(): tests the compareImages function which outputs the total square difference between pixels in two images
+2) testCompareImages(): tests the compareImages function which outputs the total square difference between pixels in two images.
 
 3) testCreateBlock(): tests the creatBlock function which outputs a 16 x 16 px block with top left corner at location x and y.
 
